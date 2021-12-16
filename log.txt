@@ -1,0 +1,17 @@
+[22/7/2020 11:14:28]: the user executed create_model with these parameters{ learning rate: 0.0001 batch: 64 epochs: 100 }the result is Model saved test.h5
+[22/7/2020 11:43:53]: the user executed load with these parameters{ None}the result is test.h5, testing.h5, trained_model.h5, test2.h5, string.h5, project_1_125.h5, 
+[12/9/2020 13:41:31]: the user executed load with these parameters{ None}the result is project_1_125.h5, string.h5, testing.h5, test2.h5, test.h5, trained_model.h5, 
+[12/9/2020 13:43:45]: the user executed predict_image with these parameters{ model used: test2.h5}the result is prediction as image
+[12/9/2020 14:31:15]: the user executed load with these parameters{ None}the result is project_1_125.h5, string.h5, testing.h5, test2.h5, test.h5, trained_model.h5, 
+[22/11/2021 14:15:7]: Error while executing create_model[22/11/2021 14:45:50]: the user executed load with these parameters{ None}the result is project_1_125.h5, testing.h5, test.h5, test2.h5, trained_model.h5, 
+[22/11/2021 14:46:53]: the user executed predict_image with these parameters{ model used: test.h5}the result is prediction as image
+[22/11/2021 14:48:3]: Error while executing create_model[22/11/2021 14:50:3]: Error while executing create_model[22/11/2021 14:50:27]: Error while executing create_model[22/11/2021 14:52:13]: Error while executing create_model[22/11/2021 14:54:35]: Error while executing create_model[22/11/2021 14:58:50]: Error while executing create_model[22/11/2021 14:59:17]: Error while executing create_model[22/11/2021 14:59:57]: Error while executing create_model[22/11/2021 15:0:53]: Error while executing create_model[22/11/2021 15:3:0]: Error while executing create_model[22/11/2021 15:3:29]: Error while executing create_model[22/11/2021 15:6:2]: the user executed create_model with these parameters{ learning rate: 0.01 batch: 16.0 epochs: 1 }the result is Model saved testcnn.h5
+[22/11/2021 15:7:48]: Error while executing create_model[22/11/2021 15:8:11]: Error while executing create_model[22/11/2021 15:8:23]: Error while executing create_model[22/11/2021 15:10:47]: the user executed create_model with these parameters{ learning rate: 0.01 batch: 16.0 epochs: 1 }the result is Model saved testcnn.h5
+[22/11/2021 15:44:35]: the user executed create_model with these parameters{ learning rate: 0.001 batch: 16.0 epochs: 1 }the result is Model saved cnn-uni.h5
+[22/11/2021 15:47:0]: the user executed load with these parameters{ None}the result is project_1_125.h5, testing.h5, testcnn.h5, test.h5, cnn-uni.h5, test2.h5, trained_model.h5, 
+[22/11/2021 15:49:20]: Error while executing predict[22/11/2021 15:50:25]: Error while executing predict[22/11/2021 15:52:34]: the user executed predict_image with these parameters{ model used: cnn-uni.h5}the result is prediction as image
+[22/11/2021 15:52:53]: the user executed predict_image with these parameters{ model used: project_1_125.h5}the result is prediction as image
+[22/11/2021 15:53:1]: the user executed predict_image with these parameters{ model used: project_1_125.h5}the result is prediction as image
+[22/11/2021 15:53:10]: the user executed load with these parameters{ model used: project_1_125.h5 }the result is  bird
+[22/11/2021 15:53:36]: the user executed load with these parameters{ model used: project_1_125.h5 }the result is  bird
+[22/11/2021 15:54:20]: the user executed predict_image with these parameters{ model used: project_1_125.h5}the result is prediction as image
