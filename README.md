@@ -1,6 +1,6 @@
-# GluonCV_Training_Inference_Classification_API
+# CNN_Training_Inference_Classification_API
 
-This is a repository for a classification training and inference API using the tensorflow keras. It's supported on both Windows and Linux Operating systems.
+This is a repository for basic CNN classification training and inference API using the tensorflow keras and CIFAR-10 Dataset. It's supported on both Windows and Linux Operating systems.
 
 
 # Build_the_API
