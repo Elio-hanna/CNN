@@ -1,4 +1,4 @@
 fastapi[all]
 tensorflow==1.15
 Pillow==8.4.0
-h5py==2.10.0 --force-reinstall
+h5py==2.10.0
